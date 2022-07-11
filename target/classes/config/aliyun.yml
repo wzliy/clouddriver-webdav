@@ -1,7 +1,0 @@
-aliyundrive:
-  workDir: /Users/wangzhulin/project/spring/clouddriver-webdav/src/main/resources
-  refreshToken: a442499c277046ee9a9c65fb188a34c8
-  auth:
-    enable: true
-    user-name: admin
-    password: admin
